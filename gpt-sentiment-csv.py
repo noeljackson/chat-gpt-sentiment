@@ -2,7 +2,7 @@ import csv
 import openai
 
 # Setup OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'YOUR_API_KEY'
 
 # 1. Read the CSV file
 csv_file = '01-2023-3-15-2023 result.csv'
